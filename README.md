@@ -18,6 +18,10 @@ Backend development using **Ruby On Rails**, and **PostgreSQL** as DB
 
 ### Let's Connect :coffee:
 
+[![Yahoo](<https://img.shields.io/badge/-Ymail%20(Preferred)-000000?style=flat&logo=mail.ru&logoColor=1C3E5C>)](mailto:shah.xhtml@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shahxrukh)
+[![Facebook](https://img.shields.io/badge/-Facebook-000000?style=flat&logo=facebook)](https://www.facebook.com/shah.py)
+
 **Languages/Frameworks I have used till now**
 
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=E80E12)
@@ -38,9 +42,7 @@ Backend development using **Ruby On Rails**, and **PostgreSQL** as DB
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000000?style=flat&logo=&logoColor=339933)
 ![NMap](https://img.shields.io/badge/-NMap-000000?style=flat&logo=&logoColor=61DAFB)
-![SQLMap](https://img.shields.io/badge/-SQLMap-000000?style=flat&logo=spring&logoColor=6DB33F)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
-![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)
+![SQLMap](https://img.shields.io/badge/-SQLMap-000000?style=flat)
 
 Fun fact:
 
