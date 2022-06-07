@@ -4,7 +4,7 @@ date: 2021-05-07
 githubUsername: "da-vinci-noob"
 ---
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/da-vinci-noob/da-vinci-noob/main/assets/Hi.gif" width="30px">, I'm Shah Rukh
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/da-vinci-noob/da-vinci-noob/main/assets/Hi.gif"  style="width: 30px">, I'm Shah Rukh
 </h1>
 I am Shah Rukh from India, who loves to work on new technologies and automate daily tasks. Good at following directions bad at Obeying rules!
 
