@@ -1,7 +1,6 @@
 ---
-title: ShahRukh
-date: 2021-05-07
-githubUsername: "da-vinci-noob"
+Name: ShahRukh
+GithubUsername: "da-vinci-noob"
 ---
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/da-vinci-noob/da-vinci-noob/main/assets/Hi.gif"  style="width: 30px">, I'm Shah Rukh
